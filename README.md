@@ -1,5 +1,7 @@
 # ember-a11y-power-select
 
+This is a WIP. Please don't look at it, or try to use it, or file issues (ok, unless you want to help work on it).
+
 The community has a need for a complex select component that is conformant with WCAG 2.2 AA Guidelines, US regulations, and EU regulations.
 
 ## Compatibility
