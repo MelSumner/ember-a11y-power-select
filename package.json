@@ -1,13 +1,13 @@
 {
   "name": "ember-a11y-power-select",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An accessible complex select component",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/MelSumner/ember-a11y-power-select",
   "license": "MIT",
-  "author": "",
+  "author": "Melanie Sumner <melaniersumner@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
